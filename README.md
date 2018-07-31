@@ -39,7 +39,7 @@ You are allowed to use whatever libraries you like in this challenge.
 Hint: to get a list of 20 pokemon use this call:
 
 ```
-http://pokeapi.co/api/v2/pokemon?limit=20&offset=20
+http://pokeapi.co/api/v2/pokemon?limit=20&offset=0
 ```
 
 ## Good luck!
