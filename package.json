@@ -1,0 +1,22 @@
+{
+  "name": "pokemon-interview-challenge",
+  "version": "1.0.0",
+  "description": "An interview challange where the prospect shows skill in working with an API",
+  "main": "index.html",
+  "scripts": {
+    "serve": "serve ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpicButterz/pokemon-interview-challenge.git"
+  },
+  "author": "Eric Butterfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpicButterz/pokemon-interview-challenge/issues"
+  },
+  "homepage": "https://github.com/EpicButterz/pokemon-interview-challenge#readme",
+  "devDependencies": {
+    "serve": "^9.4.0"
+  }
+}
